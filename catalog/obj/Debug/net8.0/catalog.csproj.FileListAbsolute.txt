@@ -23,3 +23,4 @@ C:\Users\inser\OneDrive\Documents\K School\25 FL\CSE310\c#-project\catalog\obj\D
 C:\Users\inser\OneDrive\Documents\K School\25 FL\CSE310\c#-project\catalog\obj\Debug\net8.0\catalog.pdb
 C:\Users\inser\OneDrive\Documents\K School\25 FL\CSE310\c#-project\catalog\obj\Debug\net8.0\catalog.genruntimeconfig.cache
 C:\Users\inser\OneDrive\Documents\K School\25 FL\CSE310\c#-project\catalog\obj\Debug\net8.0\ref\catalog.dll
+C:\Users\inser\OneDrive\Documents\K School\25 FL\CSE310\c#-project\catalog\obj\Debug\net8.0\catalog.sourcelink.json
